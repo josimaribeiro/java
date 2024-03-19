@@ -1,0 +1,7 @@
+projeto/
+│
+├── model/
+│   └── conta_bancaria.py
+│
+└── view/
+    └── main.py
